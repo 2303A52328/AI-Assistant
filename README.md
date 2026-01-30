@@ -10,4 +10,6 @@ Ass 4-1:https://github.com/2303A52328/AI-Assistant/blob/main/ASSIGNMENT%204-1.pd
 
 Ass 5-1:https://github.com/2303A52328/AI-Assistant/blob/main/ASSIGNMENT%205.1.pdf
 
-Ass 6.1:https://github.com/2303A52328/AI-Assistant/blob/main/ASSIGNMENT-6.5(2428).pdf
+Ass 6.5:https://github.com/2303A52328/AI-Assistant/blob/main/ASSIGNMENT-6.5(2428).pdf
+
+Ass 7.1:https://github.com/2303A52328/AI-Assistant/blob/main/2303A52428_Assignment_7_1.ipynb
